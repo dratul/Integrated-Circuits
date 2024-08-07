@@ -1,6 +1,6 @@
 # Integrated-Circuits
 This repo is for AKTU Integrated circuits
-## [Youtube Videos](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
+## [Youtube Playlist](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
 
 ## Syllabus
 ### Unit-01: 
