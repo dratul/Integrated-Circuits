@@ -4,7 +4,7 @@ This repo is for AKTU Integrated circuits
 
 ## Syllabus
 ### Unit-01: 
-[The 741 IC Op-Amp](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS): General operational amplifier stages (bias circuit, the input
+[The 741 IC Op-Amp](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS): [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd) (bias circuit, the input
 stage, the second stage, the output stage, short circuit protection circuitry), device
 parameters, DC and AC analysis of input stage, second stage and output stage, gain,
 frequency response of 741, a simplified model, slew rate, relationship between ft
