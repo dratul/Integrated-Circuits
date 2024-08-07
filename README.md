@@ -1,7 +1,8 @@
 # Integrated-Circuits
 This repo is for AKTU Integrated circuits
+## [Youtube Videos](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
 
-Syllabus
+## Syllabus
 ### Unit-01: 
 The 741 IC Op-Amp: General operational amplifier stages (bias circuit, the input
 stage, the second stage, the output stage, short circuit protection circuitry), device
@@ -52,3 +53,5 @@ circuits.
 4. Students will learn about CMOS digital integrated circuits and digital memory circuits.
 5. Students will gain knowledge about the working principle of data converters along with application
 specific ICs such as 555 timer and PLL.
+
+
