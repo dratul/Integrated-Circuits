@@ -8,7 +8,7 @@ This repo is for AKTU Integrated circuits
 stage, the second stage, the output stage, short circuit protection circuitry),  [DC analysis of input stage](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO), second stage and output stage, a simplified model of opamp,
 [opamp device
 parameters, Voltage gain, CMRR](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI, 
-frequency response of 741,  slew rate, relationship between ft
+input bias current, input offset current, power supply rejection ration, frequency response of 741,  slew rate, relationship between ft
 and slew rate.
 
 ### Unit-02:
