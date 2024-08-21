@@ -7,7 +7,7 @@ This repo is for AKTU Integrated circuits
 [The 741 IC Op-Amp](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS): [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd) (bias circuit, the input
 stage, the second stage, the output stage, short circuit protection circuitry),  [DC analysis of input stage](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO), second stage and output stage, a simplified model of opamp,
 [Opamp device
-parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI, 
+parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI), 
 , Voltage gain, CMRR, input bias current, input offset current, power supply rejection ratio, frequency response of 741,  slew rate, relationship between ft
 and slew rate.
 
