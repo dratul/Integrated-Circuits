@@ -12,7 +12,7 @@ parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI),
 and slew rate.
 
 ### Unit-02:
-Linear Applications of IC Op-Amps: Op-Amp based V-I and I-V converters,
+Linear Applications of IC Op-Amps: [Op-Amp based V-I converters](https://www.youtube.com/live/CtBofs9Z5WM?si=3opBHx_PDd-Zr0XT),[Op-Amp based I-V converters]
 instrumentation amplifier, generalized impedance converter, simulation of
 inductors, Active analog filters: first and second order low pass, high pass, band
 pass and band stop filter, all pass active filters, KHN Filters.
