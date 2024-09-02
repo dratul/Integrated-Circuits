@@ -14,7 +14,7 @@ and slew rate.
 ### Unit-02:
 Linear Applications of IC Op-Amps: [Op-Amp based V-I converters or Transconductance Amplifier or Voltage dependent current source](https://www.youtube.com/live/CtBofs9Z5WM?si=3opBHx_PDd-Zr0XT),[Numerical Practice problem 1](https://www.youtube.com/live/5vIqPVD52qw?si=NhYbqeH6cT_AwtGK), [Op-Amp based I-V converters](https://www.youtube.com/live/PVHRGN-kW9Q?si=dUXbbql4J5vX8LZ1)
 [difference amplifier](https://youtu.be/jEXncYFINjQ?si=PHZ62B0KEgduHEul)
-instrumentation amplifier, generalized impedance converter, simulation of
+[instrumentation amplifier Part-01](https://youtu.be/lcykQsh8KCk?si=IV_kC5dFcHtiLwSS), generalized impedance converter, simulation of
 inductors, Active analog filters: first and second order low pass, high pass, band
 pass and band stop filter, all pass active filters, KHN Filters.
 
