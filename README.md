@@ -17,7 +17,7 @@ Linear Applications of IC Op-Amps: [Op-Amp based V-I converters or Transconducta
 , [instrumentation amplifier Part-01](https://youtu.be/lcykQsh8KCk?si=IV_kC5dFcHtiLwSS),
 , [instrumentation amplifier Part-02](https://www.youtube.com/live/m43aEDeCoU0?si=0solVW4tUso9oC03),
 [instrumentation amplifier Practice Problem](https://www.youtube.com/live/gyGvx3tu0Hc?si=VeUJHiREJgP-0Efl), ,
-[Negative registance ](https://youtu.be/LO-BRHI8RPs?si=7QDfRfj0n_lghpCc)
+[Negative registance ](https://youtu.be/LO-BRHI8RPs?si=7QDfRfj0n_lghpCc), ,
 [generalized impedance converter](https://www.youtube.com/live/OyGvj18pmAc?si=cOmcEb1LUp6vfqBO), simulation of
 inductors, Active analog filters: first and second order low pass, high pass, band
 pass and band stop filter, all pass active filters, KHN Filters.
