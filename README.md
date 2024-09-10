@@ -21,6 +21,7 @@ Linear Applications of IC Op-Amps: [Op-Amp based V-I converters or Transconducta
 [generalized impedance converter](https://www.youtube.com/live/OyGvj18pmAc?si=cOmcEb1LUp6vfqBO), simulation of
 inductors, Active analog filters: first and second order low pass, high pass, band
 pass and band stop filter, all pass active filters, KHN Filters.
+Reference read for [GIC](https://link.springer.com/article/10.1007/s00034-022-02234-w)
 
 ### Unit-03
 Non-Linear Applications of IC Op-Amps: Basic Log–Anti Log amplifiers using
