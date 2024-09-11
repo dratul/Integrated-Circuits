@@ -22,7 +22,7 @@ Linear Applications of IC Op-Amps: [Op-Amp based V-I converters or Transconducta
 simulation of inductors, 
 Active analog filters: first and second order low pass, high pass, band
 pass and band stop filter, all pass active filters, ,
-[GATE Practice problems](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/ESd21macmyVOq3F7dLWQO4wB93bFedytOGPVwrQnB09q2Q?e=yO5QNm)
+[GATE Practice problems on Active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/ESd21macmyVOq3F7dLWQO4wB93bFedytOGPVwrQnB09q2Q?e=yO5QNm)
 KHN Filters.
 #### References
 201. [GIC](https://link.springer.com/article/10.1007/s00034-022-02234-w)
