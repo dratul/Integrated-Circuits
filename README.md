@@ -27,7 +27,7 @@ passive filters,  first order low pass, high pass, band
 pass and band stop filter, all pass active filters, second order low pass, high pass, band
 pass and band stop filter, all pass active filters, , sallen key second order filter, ,
 [GATE Practice problems on Active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/ESd21macmyVOq3F7dLWQO4wB93bFedytOGPVwrQnB09q2Q?e=yO5QNm)
-KHN Filters.
+KHN Filters,  , introduction to design of higher order filters.
 #### References
 201. [GIC](https://link.springer.com/article/10.1007/s00034-022-02234-w)
 
