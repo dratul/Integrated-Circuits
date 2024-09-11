@@ -5,8 +5,8 @@ This repo is for AKTU Integrated circuits
 ## Syllabus
 ### Unit-01: 
 #### Introduction and internal circuit
-[The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS),  , [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd), , (bias circuit, the input
-stage, the second stage, the output stage, short circuit protection circuitry),  [DC analysis of input stage](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO), second stage and output stage, 
+[The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS),  , [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd), , bias circuit,  ,the input
+stage, the second stage,  , the output stage,  ,short circuit protection circuitry,  ,[DC analysis of input stage](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO), second stage and output stage, 
 #### Equivalent model of opamp
 a simplified model of opamp,
  #### Opamp device parameters
