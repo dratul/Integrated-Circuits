@@ -1,7 +1,16 @@
 # Integrated-Circuits
 This repo is for AKTU Integrated circuits
 ## [Youtube Playlist](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
-
+### Course Outcomes:
+At the end of this course students will demonstrate the ability to:
+1. Students will be able to gain in-depth knowledge of complete analysis of Op-Amp 741-IC.
+2. Students will acquire knowledge about Op-Amp based circuits and basic components of ICs such as
+various types of filters.
+3. Students will be able to understand the concept of Op-Amp based non-linear and wave- shaping
+circuits.
+4. Students will learn about CMOS digital integrated circuits and digital memory circuits.
+5. Students will gain knowledge about the working principle of data converters along with application
+specific ICs such as 555 timer and PLL.
 ## Syllabus
 ### Unit-01: 
 #### Introduction and internal circuit
@@ -63,15 +72,6 @@ Oxford, 2013.
 2. Michael Jacob, “Applications and Design with Analog Integrated Circuits”, PHI, 2nd Edition, 2004
 3. Salivahnan, Electronics Devices and Circuits, TMH, 2nd Edition, 2015
 4. Millman and Halkias: Integrated Electronics, Tata Mc.Graw Hill, 2nd Edition, 2010.
-### Course Outcomes:
-At the end of this course students will demonstrate the ability to:
-1. Students will be able to gain in-depth knowledge of complete analysis of Op-Amp 741-IC.
-2. Students will acquire knowledge about Op-Amp based circuits and basic components of ICs such as
-various types of filters.
-3. Students will be able to understand the concept of Op-Amp based non-linear and wave- shaping
-circuits.
-4. Students will learn about CMOS digital integrated circuits and digital memory circuits.
-5. Students will gain knowledge about the working principle of data converters along with application
-specific ICs such as 555 timer and PLL.
+
 
 
