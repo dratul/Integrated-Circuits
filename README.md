@@ -21,7 +21,7 @@ a simplified model of opamp,
  #### Opamp device parameters
 [Opamp device
 parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI), 
-, Voltage gain, CMRR, input bias current, input offset current, power supply rejection ratio, frequency response of 741,  slew rate, relationship between ft
+, ,[Voltage gain, CMRR](https://youtu.be/EMY-IriwEM0), input bias current, input offset current, power supply rejection ratio, frequency response of 741,  slew rate, relationship between ft
 and slew rate.
 
 ### Unit-02:
