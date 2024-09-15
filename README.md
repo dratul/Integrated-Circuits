@@ -36,8 +36,8 @@ and slew rate.
 [generalized impedance converter](https://www.youtube.com/live/OyGvj18pmAc?si=cOmcEb1LUp6vfqBO), ,
 simulation of inductors, 
 #### Active Analog filters
-passive filters,  Active filters, first order low pass, high pass, band
-pass and band stop filter, all pass active filters, , [Practice problem 1 on Active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EZrLt6GFutpIqZh6FOC-zsEBJu-FEodXtamjTAEEh7HoNA?e=Eecrqn)
+passive filters,  first order low pass, high pass, band
+pass and band stop filter, all pass active filters, ,Active filters, , [Practice problem 1 on Active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EZrLt6GFutpIqZh6FOC-zsEBJu-FEodXtamjTAEEh7HoNA?e=Eecrqn)
 ,  ,second order low pass, high pass, band
 pass and band stop filter, all pass active filters, , sallen key second order filter, ,
 KHN Filters,  , introduction to design of higher order filters.
