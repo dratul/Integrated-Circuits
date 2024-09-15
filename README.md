@@ -17,7 +17,7 @@ specific ICs such as 555 timer and PLL.
 [The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS),  , [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd), , [bias circuit](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EcIlTNsjrwVOgGNE_L5Zv9ABvTbrKWeAWIhg2ezUlH9q6w?e=yGgrGO),  ,the input
 stage, the second stage,  , the output stage,  ,short circuit protection circuitry,  ,[DC analysis of input stage video](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO),   , [DC analysis of input stage Notes](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EUO73vw_051Gjf32bxeOkswBS86nA7mRPIdgBOR-jy2VBQ?e=h5nhnn)  ,  
 #### Equivalent model of opamp
-a simplified model of opamp,
+[a simplified model of opamp](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EXXzzFZYGM5Hnsqem6pBJ0QBBiq1A6jrBWeRapPMeM9NiA?e=JiRe1R),
  #### Opamp device parameters
 [Opamp device
 parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI), 
