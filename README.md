@@ -38,6 +38,7 @@ simulation of inductors,
 #### Active Analog filters
 passive filters,  first order low pass, high pass, band
 pass and band stop filter, all pass active filters, ,Active filters, , [Practice problem 1 on Active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EZrLt6GFutpIqZh6FOC-zsEBJu-FEodXtamjTAEEh7HoNA?e=Eecrqn)
+,  , [Practice problem 2](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/Ee09T3VqtDFMvnQklE0aTHEBuDFtuQhIQ7d0bes43FN3xA?e=DQiYJE)
 ,  ,second order low pass, high pass, band
 pass and band stop filter, all pass active filters, , sallen key second order filter, ,
 KHN Filters,  , introduction to design of higher order filters.
