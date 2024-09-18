@@ -21,8 +21,7 @@ stage, the second stage,  , the output stage,  ,short circuit protection circuit
  #### Opamp device parameters
 [Opamp device
 parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI), 
-, ,[Voltage gain,differential gian, common mode gain, CMRR](https://youtu.be/EMY-IriwEM0), input] bias current, input offset current, power supply rejection ratio, frequency response of 741,  slew rate, relationship between ft
-and slew rate.
+, ,[Voltage gain,differential gian, common mode gain, CMRR](https://youtu.be/EMY-IriwEM0), input bias current, input offset current, power supply rejection ratio, frequency response of 741,  slew rate, relationship between input signal frequency and slew rate. relationship between output capacitance and slew rate.
 
 ### Unit-02:
 #### Linear Applications of IC Op-Amps:
