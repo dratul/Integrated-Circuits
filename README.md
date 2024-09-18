@@ -35,10 +35,13 @@ parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI),
 [generalized impedance converter](https://www.youtube.com/live/OyGvj18pmAc?si=cOmcEb1LUp6vfqBO), ,
 [simulation of inductors](https://youtu.be/OyGvj18pmAc?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO&t=2877), 
 #### Active Analog filters
-##### passive first order low pass filter, 
+##### passive filters
+passive first order low pass filter, 
 passive first order high pass filter, band
 pass and band stop filter, all pass filter, , Higher order passive filters
-##### Active filters, , 
+##### Active filters, ,
+first order low pass filter,  first order high pass filter, band
+pass and band stop filter, all pass filter, 
 [Practice problem 1 on Active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EZrLt6GFutpIqZh6FOC-zsEBJu-FEodXtamjTAEEh7HoNA?e=Eecrqn)
 ,  , [Practice problem 2](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/Ee09T3VqtDFMvnQklE0aTHEBuDFtuQhIQ7d0bes43FN3xA?e=DQiYJE)
 ,  ,second order low pass, high pass, band
