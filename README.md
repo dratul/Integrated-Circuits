@@ -107,8 +107,7 @@ b) Measure the frequency of oscillation (Through Virtual Lab Link 2)
 
 Virtual Lab Link:
 1. http://vlabs.iitkgp.ernet.in/be/exp17/index.html
-2. http://hecoep.vlabs.ac.in/Experiment8/Theory.html?domain=ElectronicsandCommunicati
-ons&lab=Hybrid%20Electronics%20Lab
+2. http://hecoep.vlabs.ac.in/Experiment8/Theory.html?domain=ElectronicsandCommunications&lab=Hybrid%20Electronics%20Lab
 
 Lab Course Outcomes:
 At the end of this course students will demonstrate the ability to:
