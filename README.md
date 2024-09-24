@@ -1,4 +1,4 @@
-# Integrated-Circuits (BEC 501) Video Lectures
+# Integrated-Circuits Theory (BEC 501) Video Lectures/notes
 This repo is for AKTU Integrated circuits study material and video lecs
 ## [Youtube Playlist](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
 ### Course Outcomes:
@@ -78,6 +78,15 @@ Oxford, 2013.
 2. Michael Jacob, “Applications and Design with Analog Integrated Circuits”, PHI, 2nd Edition, 2004
 3. Salivahnan, Electronics Devices and Circuits, TMH, 2nd Edition, 2015
 4. Millman and Halkias: Integrated Electronics, Tata Mc.Graw Hill, 2nd Edition, 2010.
+
+
+# Integrated-Circuits Lab (BEC 551) 
+## Experiment List
+1. Design the following using Op-Amp: (Through Virtual Lab : [click here to open](http://vlabs.iitkgp.ernet.in/be/exp17/index.html))
+a) A unity gain amplifier.
+b) An inverting amplifier with a gain of “A”.
+c) A non-inverting amplifier with a gain of “A”
+
 
 
 
