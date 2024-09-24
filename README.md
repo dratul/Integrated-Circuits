@@ -1,4 +1,4 @@
-# Integrated-Circuits [Theory (BEC 501)](https://github.com/dratul/Integrated-Circuits/blob/main/README.md#integrated-circuits-lab-bec-551)  and [lab](https://github.com/dratul/Integrated-Circuits/blob/main/README.md#integrated-circuits-lab-bec-551) 
+# Integrated-Circuits Theory (BEC 501) and [lab](https://github.com/dratul/Integrated-Circuits/blob/main/README.md#integrated-circuits-lab-bec-551) 
 This repo is for AKTU Integrated circuits study material and video lecs
 ## [Youtube Playlist](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
 ### Course Outcomes:
