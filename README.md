@@ -83,10 +83,40 @@ Oxford, 2013.
 # Integrated-Circuits Lab (BEC 551) 
 ## Experiment List
 1. Design the following using Op-Amp: (Through Virtual Lab : [click here to open](http://vlabs.iitkgp.ernet.in/be/exp17/index.html))
-a) A unity gain amplifier.
-b) An inverting amplifier with a gain of “A”.
-c) A non-inverting amplifier with a gain of “A”
+ a) A unity gain amplifier.
+ b) An inverting amplifier with a gain of “A”.
+ c) A non-inverting amplifier with a gain of “A”
+2. Study and design Log and antilog amplifiers.
+3. Voltage to current and current to voltage convertors.
+4. Second order filters using operational amplifier for: (Through Virtual Lab Link 1)
+ a) Low pass filter of cutoff frequency 1 KHz.
+ b) High pass filter of frequency 12 KHz.
+5. Realization of Band pass filter with unit gain of pass band from 1 KHz to 12 KHz.
+6. Study and design voltage comparator and zero crossing detectors.
+7. Function generator using operational amplifier (sine, triangular & square wave).
+8. Design and construct astable multivibrator using IC 555 and
+ a) Plot the output waveform
+b) Measure the frequency of oscillation (Through Virtual Lab Link 2)
+9. Design and construct a monostable multivibrator using IC 555 and
+ a) Plot the output waveform
+ b) Measure the time delay (Through Virtual Lab Link 2)
+10. Implement Schmitt Trigger Circuit using IC 555. (Through Virtual Lab Link 2)
+11. Implement voltage-controlled oscillator using IC566 and plot the waveform.
+(Through Virtual Lab Link 2)
+12. Study and design ramp generator using IC 566.
 
+Virtual Lab Link:
+1. http://vlabs.iitkgp.ernet.in/be/exp17/index.html
+2. http://hecoep.vlabs.ac.in/Experiment8/Theory.html?domain=ElectronicsandCommunicati
+ons&lab=Hybrid%20Electronics%20Lab
 
-
-
+Lab Course Outcomes:
+At the end of this course students will demonstrate the ability to:
+1. Design different non-linear applications of operational amplifiers such as log,
+antilogamplifiers and voltage comparators.
+2. Explain and design different linear applications of operational amplifiers such as
+filters.
+3. Demonstrate the function of waveforms generator using op-Amp.
+4. Construct multivibrator and oscillator circuits using IC555 and IC566 and perform
+measurements of frequency and time.
+5. Design and practically demonstrate the applications based on IC555 and IC566.
