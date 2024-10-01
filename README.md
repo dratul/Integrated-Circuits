@@ -46,7 +46,7 @@ pass and band stop filter, all pass filter,
 ,  , [Practice problem 2](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/Ee09T3VqtDFMvnQklE0aTHEBuDFtuQhIQ7d0bes43FN3xA?e=DQiYJE)
 ,  ,second order low pass, high pass, band
 pass and band stop filter, all pass active filters, , sallen key second order filter, ,
-[KHN Filters](https://www.youtube.com/live/HXt5m6Q_nYg?si=ah0aM--zSNbR9L3d),  , introduction to design of higher order filters.
+[KHN Filters part-01](https://www.youtube.com/live/HXt5m6Q_nYg?si=ah0aM--zSNbR9L3d),  , [KHN Filters part-02](https://www.youtube.com/live/ZoRuUx8ouAo?si=pfQ8V4ddrzBe1t-g),  , introduction to design of higher order filters.
 #### References
 201. [GIC](https://link.springer.com/article/10.1007/s00034-022-02234-w)
 
