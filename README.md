@@ -108,6 +108,7 @@ b) Measure the frequency of oscillation (Through Virtual Lab Link 2)
 Virtual Lab Link:
 1. http://vlabs.iitkgp.ernet.in/be/exp17/index.html
 2. [http://hecoep.vlabs.ac.in/Experiment8/Theory.html?domain=ElectronicsandCommunications&lab=Hybrid%20Electronics%20Lab](https://he-coep.vlabs.ac.in/exp/monostable-astable-oscillator/)
+3.[ www.tinkercad.com](https://www.tinkercad.com/joinclass/GJKQXTTE3)
 
 Lab Course Outcomes:
 At the end of this course students will demonstrate the ability to:
