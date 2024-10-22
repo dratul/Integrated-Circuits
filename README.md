@@ -64,10 +64,10 @@ and Flip flops: the latch, CMOS implementation of SR flip-flops, a simpler CMOS
 implementation of the clocked SR flip-flop, CMOS implementation of J-K flipflops, D flip- flop circuits
 
 ### Unit-05
-D/A Converters: Binary weighted resistor and R-2R ladder, A/D converters: dual
-slope, successive approximation type and flash converter.
+#### 555 Timer
 Integrated Circuit Timer: Timer IC 555 pin and functional block diagram,
 Monostable and Astable multivibrator using the 555 IC.
+#### VCO
 Phase Locked Loop (PLL): Basic principle of PLL, block diagram, working, ExOR gates and multipliers as phase detectors, applications of PLL
 
 ### Text Book:
