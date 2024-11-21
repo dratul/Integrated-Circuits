@@ -51,6 +51,10 @@ pass and band stop filter, all pass active filters, , [Biquad filters](https://y
 201. [GIC](https://link.springer.com/article/10.1007/s00034-022-02234-w)
 
 ### Unit-03
+#### Frequency Compensation & Nonlinearity: 
+Frequency Compensation, Compensation of two 
+stage Op-Amps, Slewing in two stage Op-Amp. Nonlinearity of Differential Circuits, Effect
+of Negative feedback on Nonlinearity.
 #### Non-Linear Applications of IC Op-Amps: 
 Basic Log–Anti Log amplifiers using
 diode and BJT, temperature compensated Log-Anti Log amplifiers using diode,
