@@ -56,7 +56,7 @@ Basic Log–Anti Log amplifiers using
 diode and BJT, temperature compensated Log-Anti Log amplifiers using diode,
 peak detectors, sample and hold circuits, Op-amp as a comparator and zero crossing
 detector, 
-Shmitt Trigger,
+Schmitt trigger,
 astable multivibrator, monostable multivibrator, generation of triangular
 waveforms, analog multipliers and their applications
 
