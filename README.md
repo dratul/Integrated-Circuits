@@ -51,10 +51,13 @@ pass and band stop filter, all pass active filters, , [Biquad filters](https://y
 201. [GIC](https://link.springer.com/article/10.1007/s00034-022-02234-w)
 
 ### Unit-03
-Non-Linear Applications of IC Op-Amps: Basic Log–Anti Log amplifiers using
+#### Non-Linear Applications of IC Op-Amps: 
+Basic Log–Anti Log amplifiers using
 diode and BJT, temperature compensated Log-Anti Log amplifiers using diode,
 peak detectors, sample and hold circuits, Op-amp as a comparator and zero crossing
-detector, astable multivibrator, monostable multivibrator, generation of triangular
+detector, 
+Shmitt Trigger,
+astable multivibrator, monostable multivibrator, generation of triangular
 waveforms, analog multipliers and their applications
 
 ### Unit-04
