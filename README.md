@@ -61,8 +61,12 @@ diode and BJT, temperature compensated Log-Anti Log amplifiers using diode,
 peak detectors, sample and hold circuits, Op-amp as a comparator and zero crossing
 detector, 
 [Schmitt trigger](https://youtube.com/live/F_qzAaZkRIg),
-[astable multivibrator](https://www.youtube.com/live/bVItmFjMpxw?si=3AH-mo6Nmh2-Xj2d), monostable multivibrator, generation of triangular
-waveforms, analog multipliers and their applications
+[astable multivibrator](https://www.youtube.com/live/bVItmFjMpxw?si=3AH-mo6Nmh2-Xj2d), 
+[monostable multivibrator)(https://www.youtube.com/live/RBR8xrr-cPU?si=iGvbSzeqgY3wc7-i),  
+,generation of triangular
+waveforms, 
+
+[analog multipliers and their applications](https://youtu.be/papMcmgUnaM?si=HY366qA_F3KxTrtp)
 
 ### Unit-04
 Digital Integrated Circuit Design: An overview, CMOS logic gate circuits basic
