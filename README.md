@@ -62,7 +62,7 @@ peak detectors, sample and hold circuits, Op-amp as a comparator and zero crossi
 detector, 
 [Schmitt trigger](https://youtube.com/live/F_qzAaZkRIg),
 [astable multivibrator](https://www.youtube.com/live/bVItmFjMpxw?si=3AH-mo6Nmh2-Xj2d), 
-[monostable multivibrator)(https://www.youtube.com/live/RBR8xrr-cPU?si=iGvbSzeqgY3wc7-i),  
+[monostable multivibrator](https://www.youtube.com/live/RBR8xrr-cPU?si=iGvbSzeqgY3wc7-i),  
 ,generation of triangular
 waveforms, 
 
