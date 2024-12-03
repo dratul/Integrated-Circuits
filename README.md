@@ -69,10 +69,12 @@ waveforms,
 [analog multipliers and their applications](https://youtu.be/papMcmgUnaM?si=HY366qA_F3KxTrtp)
 
 ### Unit-04
-Digital Integrated Circuit Design: An overview, CMOS logic gate circuits basic
-structure, CMOS realization of inverters, AND, OR, NAND and NOR gates, Latches
+Digital Integrated Circuit Design: An overview, 
+CMOS logic gate circuits basic
+structure, 
+CMOS realization of inverters, AND, OR, NAND and NOR gates, Latches
 and Flip flops: the latch, CMOS implementation of SR flip-flops, a simpler CMOS
-implementation of the clocked SR flip-flop, CMOS implementation of J-K flipflops, D flip- flop circuits
+implementation of the clocked SR flip-flop, CMOS implementation of J-K flipflops, D flip- flop circuits, Pass transitor logic
 
 ### Unit-05
 #### 555 Timer
