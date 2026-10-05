@@ -1,4 +1,4 @@
-# Integrated-Circuits Theory (BEC 501) and [lab](https://github.com/dratul/Integrated-Circuits/blob/main/README.md#integrated-circuits-lab-bec-551) 
+# Integrated-Circuits Theory (BEC 501),  [lab](https://github.com/dratul/Integrated-Circuits/blob/main/README.md#integrated-circuits-lab-bec-551) and [Tutorials]((https://github.com/dratul/Integrated-Circuits/blob/main/README.md#Tutorials)
 This repo is for AKTU Integrated circuits study material and video lecs
 ## [Youtube Playlist](https://www.youtube.com/watch?v=ov1TF34Wnpw&list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)
 ### Course Outcomes:
@@ -145,7 +145,8 @@ filters.
 measurements of frequency and time.
 5. Design and practically demonstrate the applications based on IC555 and IC566.
 
-# Tutorials (Assignments) : Last Date 15th October
+# Tutorials
+Last Date 15th October
 1. [Tutorial-01](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAiRDnH5VB-TYU-V8RzGu9DAWUyNfYJM_udHUK-n37-U9M)
 2. [Tutorial-02](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQATPwqqGNpWRILEf29HFGERAQNR9zQLEIvkjeP5DRpFbM4?e=y6Q9aq)
 3. [Tutorial-03](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBM6e8J6QtoTbHQlMeQlDFjAQo_gPooE5ULIKcWu-WJgc0?e=2y2qWA))
