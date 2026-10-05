@@ -14,18 +14,30 @@ specific ICs such as 555 timer and PLL.
 ## Syllabus
 ### Unit-01: 
 #### Introduction and internal circuit
-[The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS),  , [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd), , [bias circuit](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EcIlTNsjrwVOgGNE_L5Zv9ABvTbrKWeAWIhg2ezUlH9q6w?e=yGgrGO),  ,the input
-stage, the second stage,  , the output stage,  ,short circuit protection circuitry,  ,[DC analysis of input stage video](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO),   , [DC analysis of input stage Notes](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EUO73vw_051Gjf32bxeOkswBS86nA7mRPIdgBOR-jy2VBQ?e=h5nhnn)  ,  
+101 [The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS),  , 102 [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd), , 
+103 [bias circuit](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EcIlTNsjrwVOgGNE_L5Zv9ABvTbrKWeAWIhg2ezUlH9q6w?e=yGgrGO),  ,
+104 the input
+stage, the second stage,  , 
+105 the output stage,  ,
+106 short circuit protection circuitry,  ,
+107 [DC analysis of input stage video](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO),   , 
+108 [DC analysis of input stage Notes](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EUO73vw_051Gjf32bxeOkswBS86nA7mRPIdgBOR-jy2VBQ?e=h5nhnn)  ,  
 #### Equivalent model of opamp
-[a simplified model of opamp](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EXXzzFZYGM5Hnsqem6pBJ0QBBiq1A6jrBWeRapPMeM9NiA?e=JiRe1R),
+109 [a simplified model of opamp](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EXXzzFZYGM5Hnsqem6pBJ0QBBiq1A6jrBWeRapPMeM9NiA?e=JiRe1R),
  #### Opamp device parameters
-[Opamp device
+110 [Opamp device
 parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI), 
-, ,[Voltage gain,differential gian, common mode gain, CMRR](https://youtu.be/EMY-IriwEM0), input bias current, input offset current, power supply rejection ratio, frequency response of 741,  slew rate, relationship between input signal frequency and slew rate. [relationship between output capacitance and slew rate](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EU8Uxbme7gNDrWUL8ghlEPcBNE4NxgDzEQmgAr7DE-mOWg?e=1ozGGZ).
+, ,
+111 [Voltage gain,differential gian, common mode gain, CMRR](https://youtu.be/EMY-IriwEM0), , 
+112 input bias current, input offset current, power supply rejection ratio, frequency response of 741, 
+113 slew rate, relationship between input signal frequency and slew rate. 
+114 [relationship between output capacitance and slew rate](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EU8Uxbme7gNDrWUL8ghlEPcBNE4NxgDzEQmgAr7DE-mOWg?e=1ozGGZ).
 
 ### Unit-02:
 #### Linear Applications of IC Op-Amps:
-[Op-Amp based V-I converters or Transconductance Amplifier or Voltage dependent current source](https://www.youtube.com/live/CtBofs9Z5WM?si=3opBHx_PDd-Zr0XT),[Numerical Practice problem 1](https://www.youtube.com/live/5vIqPVD52qw?si=NhYbqeH6cT_AwtGK), [Op-Amp based I-V converters](https://www.youtube.com/live/PVHRGN-kW9Q?si=dUXbbql4J5vX8LZ1)
+201 [Op-Amp based V-I converters or Transconductance Amplifier or Voltage dependent current source](https://www.youtube.com/live/CtBofs9Z5WM?si=3opBHx_PDd-Zr0XT), ,
+202 [Numerical Practice problem 1](https://www.youtube.com/live/5vIqPVD52qw?si=NhYbqeH6cT_AwtGK), 
+203 [Op-Amp based I-V converters](https://www.youtube.com/live/PVHRGN-kW9Q?si=dUXbbql4J5vX8LZ1)
 [difference amplifier](https://youtu.be/jEXncYFINjQ?si=PHZ62B0KEgduHEul)
 , [instrumentation amplifier Part-01](https://youtu.be/lcykQsh8KCk?si=IV_kC5dFcHtiLwSS),
 , [instrumentation amplifier Part-02](https://www.youtube.com/live/m43aEDeCoU0?si=0solVW4tUso9oC03),
