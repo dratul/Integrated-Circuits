@@ -16,8 +16,7 @@ specific ICs such as 555 timer and PLL.
 #### Introduction and internal circuit
 101 [The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS),  , 102 [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd), , 
 103 [bias circuit](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EcIlTNsjrwVOgGNE_L5Zv9ABvTbrKWeAWIhg2ezUlH9q6w?e=yGgrGO),  ,
-104 the input
-stage, the second stage,  , 
+104 the input stage, the second stage,  , 
 105 the output stage,  ,
 106 short circuit protection circuitry,  ,
 107 [DC analysis of input stage video](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO),   , 
@@ -145,3 +144,11 @@ filters.
 4. Construct multivibrator and oscillator circuits using IC555 and IC566 and perform
 measurements of frequency and time.
 5. Design and practically demonstrate the applications based on IC555 and IC566.
+
+# Tutorials (Assignments) : Last Date 15th October
+1. [Tutorial-01](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAiRDnH5VB-TYU-V8RzGu9DAWUyNfYJM_udHUK-n37-U9M)
+2. [Tutorial-02](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQATPwqqGNpWRILEf29HFGERAQNR9zQLEIvkjeP5DRpFbM4?e=y6Q9aq)
+3. [Tutorial-03](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBM6e8J6QtoTbHQlMeQlDFjAQo_gPooE5ULIKcWu-WJgc0?e=2y2qWA))
+4. [Tutorial-04](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBA3BaeY7N0QaaD2J1kNqvgAVn_Qb3g_O2jErcWUYm1Wv8?e=OcYXMx)
+
+5. [Tutorial-05](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQB9GDseDhmcRb_90tB69EQCAWFRZUE_79HR-ZB3u9ja3hA)
