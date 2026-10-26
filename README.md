@@ -147,9 +147,9 @@ measurements of frequency and time.
 
 # Tutorials
 Last Date 15th October
-1. [Tutorial-01](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAiRDnH5VB-TYU-V8RzGu9DAWUyNfYJM_udHUK-n37-U9M)
-2. [Tutorial-02](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQATPwqqGNpWRILEf29HFGERAQNR9zQLEIvkjeP5DRpFbM4?e=y6Q9aq)
-3. [Tutorial-03](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBM6e8J6QtoTbHQlMeQlDFjAQo_gPooE5ULIKcWu-WJgc0?e=2y2qWA)
-4. [Tutorial-04](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBA3BaeY7N0QaaD2J1kNqvgAVn_Qb3g_O2jErcWUYm1Wv8?e=OcYXMx) [click ](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBA3BaeY7N0QaaD2J1kNqvgASH9Dp8eeQ_C7fAVUmEqz0o)
+1. [Tutorial-01 ](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAiRDnH5VB-TYU-V8RzGu9DAWUyNfYJM_udHUK-n37-U9M)
+2. [Tutorial-02 ](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQATPwqqGNpWRILEf29HFGERAQNR9zQLEIvkjeP5DRpFbM4?e=y6Q9aq)
+3. [Tutorial-03 ](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBM6e8J6QtoTbHQlMeQlDFjAQo_gPooE5ULIKcWu-WJgc0?e=2y2qWA)
+4. [Tutorial-04  ](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBA3BaeY7N0QaaD2J1kNqvgASH9Dp8eeQ_C7fAVUmEqz0o)
 
-5. [Tutorial-05](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQB9GDseDhmcRb_90tB69EQCAWFRZUE_79HR-ZB3u9ja3hA)
+5. [Tutorial-05 ](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQB9GDseDhmcRb_90tB69EQCAWFRZUE_79HR-ZB3u9ja3hA)
