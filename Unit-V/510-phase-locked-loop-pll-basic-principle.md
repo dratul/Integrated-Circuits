@@ -15,7 +15,8 @@ principle of loop components we distinguish
 * Analog
 * Digital
 * Hybrid
-phase-locked loops. Only the analog phase-locked loop (APLL) is discussed in
+
+Phase-locked loops. Only the analog phase-locked loop (APLL) is discussed in
 this course. For the sake of simplicity, we will call this circuit PLL
 PLL is an important concept in analog circuit analysis and design because it connects device behavior with practical amplifier and signal-processing applications.
 
