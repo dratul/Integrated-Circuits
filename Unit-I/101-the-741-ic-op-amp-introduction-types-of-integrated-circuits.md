@@ -1,5 +1,10 @@
 # 101 - The 741 IC Op-Amp: introduction, types of integrated circuits
 
+## Navigation
+- Previous: [Unit overview](./README.md)
+- Next: [102 - General operational amplifier stages](./102-general-operational-amplifier-stages.md)
+- Related topics: [102 - General operational amplifier stages](102-general-operational-amplifier-stages.md), [103 - Bias circuit](103-bias-circuit.md)
+
 ## Unit
 Unit-I
 

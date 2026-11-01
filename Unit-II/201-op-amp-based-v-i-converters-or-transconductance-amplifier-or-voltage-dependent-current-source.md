@@ -1,5 +1,10 @@
 # 201 - Op-Amp based V-I converters or transconductance amplifier or voltage dependent current source
 
+## Navigation
+- Previous: [Unit overview](./README.md)
+- Next: [202 - Numerical practice problem 1](./202-numerical-practice-problem-1.md)
+- Related topics: [202 - Numerical practice problem 1](202-numerical-practice-problem-1.md), [203 - Op-Amp based I-V converters](203-op-amp-based-i-v-converters.md)
+
 ## Unit
 Unit-II
 

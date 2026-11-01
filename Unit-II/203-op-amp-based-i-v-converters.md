@@ -1,5 +1,10 @@
 # 203 - Op-Amp based I-V converters
 
+## Navigation
+- Previous: [202 - Numerical practice problem 1](./202-numerical-practice-problem-1.md)
+- Next: [204 - Difference amplifier](./204-difference-amplifier.md)
+- Related topics: [202 - Numerical practice problem 1](202-numerical-practice-problem-1.md), [204 - Difference amplifier](204-difference-amplifier.md), [201 - Op-Amp based V-I converters or transconductance amplifier or voltage dependent current source](201-op-amp-based-v-i-converters-or-transconductance-amplifier-or-voltage-dependent-current-source.md), [205 - Instrumentation amplifier Part-01](205-instrumentation-amplifier-part-01.md)
+
 ## Unit
 Unit-II
 

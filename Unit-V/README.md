@@ -15,3 +15,7 @@
 - [511 - Block diagram and working of PLL](511-block-diagram-and-working-of-pll.md)
 - [512 - Ex-OR gates and multipliers as phase detectors](512-ex-or-gates-and-multipliers-as-phase-detectors.md)
 - [513 - Applications of PLL](513-applications-of-pll.md)
+
+## Navigation
+- First topic: [501 - Introduction to 555 timer IC](./501-introduction-to-555-timer-ic.md)
+- Last topic: [513 - Applications of PLL](./513-applications-of-pll.md)

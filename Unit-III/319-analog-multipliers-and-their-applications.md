@@ -1,5 +1,10 @@
 # 319 - Analog multipliers and their applications
 
+## Navigation
+- Previous: [318 - Frequency of generated triangular waveform](./318-frequency-of-generated-triangular-waveform.md)
+- Next: [Unit overview](./README.md)
+- Related topics: [318 - Frequency of generated triangular waveform](318-frequency-of-generated-triangular-waveform.md), [301 - Frequency compensation](301-frequency-compensation.md)
+
 ## Unit
 Unit-III
 

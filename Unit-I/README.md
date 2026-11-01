@@ -19,3 +19,7 @@
 - [115 - Inverting amplifier](115-inverting-amplifier.md)
 - [116 - Non-inverting amplifier](116-non-inverting-amplifier.md)
 - [117 - Basic applications of Op-Amp](117-basic-applications-of-op-amp.md)
+
+## Navigation
+- First topic: [101 - The 741 IC Op-Amp: introduction, types of integrated circuits](./101-the-741-ic-op-amp-introduction-types-of-integrated-circuits.md)
+- Last topic: [117 - Basic applications of Op-Amp](./117-basic-applications-of-op-amp.md)

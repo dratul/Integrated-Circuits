@@ -21,3 +21,7 @@
 - [317 - Generation of triangular waveforms](317-generation-of-triangular-waveforms.md)
 - [318 - Frequency of generated triangular waveform](318-frequency-of-generated-triangular-waveform.md)
 - [319 - Analog multipliers and their applications](319-analog-multipliers-and-their-applications.md)
+
+## Navigation
+- First topic: [301 - Frequency compensation](./301-frequency-compensation.md)
+- Last topic: [319 - Analog multipliers and their applications](./319-analog-multipliers-and-their-applications.md)

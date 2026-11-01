@@ -1,5 +1,10 @@
 # 504 - Operating modes of 555 timer
 
+## Navigation
+- Previous: [503 - Internal architecture of 555 timer](./503-internal-architecture-of-555-timer.md)
+- Next: [505 - Monostable multivibrator using 555 IC](./505-monostable-multivibrator-using-555-ic.md)
+- Related topics: [503 - Internal architecture of 555 timer](503-internal-architecture-of-555-timer.md), [505 - Monostable multivibrator using 555 IC](505-monostable-multivibrator-using-555-ic.md), [501 - Introduction to 555 timer IC](501-introduction-to-555-timer-ic.md), [506 - Astable multivibrator using 555 IC](506-astable-multivibrator-using-555-ic.md)
+
 ## Unit
 Unit-V
 

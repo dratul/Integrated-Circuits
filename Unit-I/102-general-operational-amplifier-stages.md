@@ -1,5 +1,10 @@
 # 102 - General operational amplifier stages
 
+## Navigation
+- Previous: [101 - The 741 IC Op-Amp: introduction, types of integrated circuits](./101-the-741-ic-op-amp-introduction-types-of-integrated-circuits.md)
+- Next: [103 - Bias circuit](./103-bias-circuit.md)
+- Related topics: [101 - The 741 IC Op-Amp: introduction, types of integrated circuits](101-the-741-ic-op-amp-introduction-types-of-integrated-circuits.md), [103 - Bias circuit](103-bias-circuit.md), [101 - The 741 IC Op-Amp: introduction, types of integrated circuits](101-the-741-ic-op-amp-introduction-types-of-integrated-circuits.md), [104 - Input stage and second stage](104-input-stage-and-second-stage.md)
+
 ## Unit
 Unit-I
 
