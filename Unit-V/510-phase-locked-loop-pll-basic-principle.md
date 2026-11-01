@@ -16,7 +16,7 @@ A PLL is a feedback system that locks the phase of a VCO to an input reference. 
 - VCO frequency: fVCO = f0 + Kv * Vcontrol
 - Lock condition: reference and feedback phases become equal
 
-### Exam focus
+### Exam focused Questions
 - What is PLL. List the important parameters and their significance. What are its main applications.Connect the concept to an engineering application in analog or digital electronics.
 
   - Next: [511 - Block diagram and working of PLL](./511-block-diagram-and-working-of-pll.md)
