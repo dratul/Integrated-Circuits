@@ -3,30 +3,12 @@
 - Previous: [509 - Ramp/triangle wave generator](./509-ramp-triangle-wave-generator.md)
 
 ## Definition 
-A PLL continuously compares the phase of a generated signal with a reference and adjusts itself until both match. Once locked, the PLL tracks changes in the reference, keeping the output aligned. This makes PLLs essential for frequency synthesis, clock generation, demodulation, and communication systems.
-
-Phase-locked loop is one of the most commonly used circuit in both
-telecommunication and measurement engineering. Depending on the operation
-principle of loop components we distinguish
-* Analog
-* Digital
-* Hybrid
-
-A PLL is a feedback system that locks the phase of a VCO to an input reference.
-It consists of:
+A PLL continuously compares the phase of a generated signal with a reference and adjusts itself until both match. Once locked, the PLL tracks changes in the reference, keeping the output aligned. This makes PLLs essential for signal recovery, frequency synthesis, clock generation, Clock recovery, demodulation, and communication systems. Phase-locked loop is one of the most commonly used circuit in both telecommunication and measurement engineering. Depending on the operation
+principle of loop components we distinguish Analog, Digital, Hybrid pll। 
+A PLL is a feedback system that locks the phase of a VCO to an input reference. It consists of:
 - Phase Detector
 - Loop Filter
 - Voltage-Controlled Oscillator
-
-### Applications
-- Clock recovery
-- Frequency synthesis
-- FM demodulation
-
-
-## Notes
-### Concept
-A phase-locked loop synchronizes the output signal with a reference signal by comparing phase and frequency. PLLs are essential in communication, signal recovery, frequency synthesis, and clock generation.
 
 ### Working principle
 - Compare the reference and feedback phases using a phase detector.
