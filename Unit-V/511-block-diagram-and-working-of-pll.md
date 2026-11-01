@@ -5,9 +5,6 @@
 - Next: [512 - Ex-OR gates and multipliers as phase detectors](./512-ex-or-gates-and-multipliers-as-phase-detectors.md)
 - Related topics: [510 - Phase locked loop (PLL): basic principle](510-phase-locked-loop-pll-basic-principle.md), [512 - Ex-OR gates and multipliers as phase detectors](512-ex-or-gates-and-multipliers-as-phase-detectors.md), [501 - Introduction to 555 timer IC](501-introduction-to-555-timer-ic.md), [513 - Applications of PLL](513-applications-of-pll.md)
 
-## Unit
-Unit-V
-
 ## Overview
 This topic focuses on block diagram and working of pll in integrated circuits. It is an important concept in analog circuit analysis and design because it connects device behavior with practical amplifier and signal-processing applications.
 
@@ -17,33 +14,11 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
-## Notes
-### Concept
+
 A phase-locked loop synchronizes the output signal with a reference signal by comparing phase and frequency. PLLs are essential in communication, signal recovery, frequency synthesis, and clock generation.
 
-### Working principle
 - Compare the reference and feedback phases using a phase detector.
 - Use the loop filter to stabilize the control signal.
 - Explain how PLLs lock frequency and phase in communication systems.
 
-### Important points
-- Phase detector output is proportional to phase error
-- Low-pass loop filter reduces noise and sets stability
-- VCO frequency locks to the reference signal when the loop is stable.
-
-### Applications
-- FM demodulation
-- Clock recovery
-- Frequency synthesis
-
-### Key equations
-- Phase error: φe = φref - φout
-- Loop equation: Vcont ∝ phase error
-- VCO frequency: fVCO = f0 + Kv * Vcontrol
-- Lock condition: reference and feedback phases become equal
-
-### Exam focus
-- Explain the basic working principle using a circuit diagram or block diagram.
-- List the important parameters and their significance.
-- Solve numerical problems involving gain, frequency response, timing, or component values.
-- Connect the concept to an engineering application in analog or digital electronics.
+### Block Diagram
