@@ -186,10 +186,11 @@ At the end of this course students will demonstrate the ability to:
 4. Construct multivibrator and oscillator circuits using IC 555 and IC 566 and perform measurements of frequency and time.
 5. Design and practically demonstrate the applications based on IC 555 and IC 566.
 
-# Tutorials
+# Tutorials/ Assignments 
 
 Last date: 15th October
-
+Submission guidelines: To be submitted in Hardcopy
+Write any five questions from each unit tutorials
 1. [Tutorial-01](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQAiRDnH5VB-TYU-V8RzGu9DAWUyNfYJM_udHUK-n37-U9M)
 2. [Tutorial-02](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQATPwqqGNpWRILEf29HFGERAQNR9zQLEIvkjeP5DRpFbM4?e=y6Q9aq)
 3. [Tutorial-03](https://bietjhsacin-my.sharepoint.com/:w:/g/personal/akd_bietjhs_ac_in/IQBM6e8J6QtoTbHQlMeQlDFjAQo_gPooE5ULIKcWu-WJgc0?e=2y2qWA)
