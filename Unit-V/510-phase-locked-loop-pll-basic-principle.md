@@ -9,7 +9,15 @@
 Unit-V
 
 ## Overview
-This topic focuses on phase locked loop pll basic principle in integrated circuits. It is an important concept in analog circuit analysis and design because it connects device behavior with practical amplifier and signal-processing applications.
+Phase-locked loop is one of the most commonly used circuit in both
+telecommunication and measurement engineering. Depending on the operation
+principle of loop components we distinguish
+* Analog
+* Digital
+* Hybrid
+phase-locked loops. Only the analog phase-locked loop (APLL) is discussed in
+this course. For the sake of simplicity, we will call this circuit PLL
+PLL is an important concept in analog circuit analysis and design because it connects device behavior with practical amplifier and signal-processing applications.
 
 Students should understand the basic operating principle, the role of the circuit in the wider system, and the key parameters that affect performance such as gain, bandwidth, stability, linearity, and efficiency.
 
