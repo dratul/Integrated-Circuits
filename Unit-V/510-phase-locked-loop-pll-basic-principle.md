@@ -10,32 +10,14 @@ A PLL is a feedback system that locks the phase of a VCO to an input reference. 
 - Loop Filter
 - Voltage-Controlled Oscillator
 
-### Working principle
-- Compare the reference and feedback phases using a phase detector.
-- Use the loop filter to stabilize the control signal.
-- Explain how PLLs lock frequency and phase in communication systems.
-
-### Important points
-- Phase detector output is proportional to phase error
-- Low-pass loop filter reduces noise and sets stability
-- VCO frequency locks to the reference signal when the loop is stable.
-
-### Applications
-- FM demodulation
-- Clock recovery
-- Frequency synthesis
-
 ### Key equations
-- Phase error: φe = φref - φout
+- calculate Phase error: φe = φref - φout
 - Loop equation: Vcont ∝ phase error
 - VCO frequency: fVCO = f0 + Kv * Vcontrol
 - Lock condition: reference and feedback phases become equal
 
 ### Exam focus
-- Explain the basic working principle using a circuit diagram or block diagram.
-- List the important parameters and their significance.
-- Solve numerical problems involving gain, frequency response, timing, or component values.
-- Connect the concept to an engineering application in analog or digital electronics.
+- What is PLL. List the important parameters and their significance. What are its main applications.Connect the concept to an engineering application in analog or digital electronics.
 
   - Next: [511 - Block diagram and working of PLL](./511-block-diagram-and-working-of-pll.md)
  
