@@ -9,6 +9,8 @@
 Unit-V
 
 ## Overview
+A PLL continuously compares the phase of a generated signal with a reference and adjusts itself until both match. Once locked, the PLL tracks changes in the reference, keeping the output aligned. This makes PLLs essential for frequency synthesis, clock generation, demodulation, and communication systems.
+
 Phase-locked loop is one of the most commonly used circuit in both
 telecommunication and measurement engineering. Depending on the operation
 principle of loop components we distinguish
@@ -16,15 +18,17 @@ principle of loop components we distinguish
 * Digital
 * Hybrid
 
-Phase-locked loops. Only the analog phase-locked loop (APLL) is discussed in
-this course. For the sake of simplicity, we will call this circuit PLL
-PLL is an important concept in analog circuit analysis and design because it connects device behavior with practical amplifier and signal-processing applications.
+A PLL is a feedback system that locks the phase of a VCO to an input reference.
+It consists of:
+- Phase Detector
+- Loop Filter
+- Voltage-Controlled Oscillator
 
-Students should understand the basic operating principle, the role of the circuit in the wider system, and the key parameters that affect performance such as gain, bandwidth, stability, linearity, and efficiency.
+### Applications
+- Clock recovery
+- Frequency synthesis
+- FM demodulation
 
-In practical engineering work, this topic helps explain how circuit blocks are designed, analyzed, and used for real applications in operational amplifiers, filters, oscillators, and digital logic.
-
-Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
 ## Notes
 ### Concept
