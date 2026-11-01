@@ -2,12 +2,7 @@
 
 - Previous: [509 - Ramp/triangle wave generator](./509-ramp-triangle-wave-generator.md)
 
-
-
-## Unit
-Unit-V
-
-## Overview
+## Definition 
 A PLL continuously compares the phase of a generated signal with a reference and adjusts itself until both match. Once locked, the PLL tracks changes in the reference, keeping the output aligned. This makes PLLs essential for frequency synthesis, clock generation, demodulation, and communication systems.
 
 Phase-locked loop is one of the most commonly used circuit in both
