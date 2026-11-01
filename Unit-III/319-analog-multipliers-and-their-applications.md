@@ -21,5 +21,26 @@ Key points to remember include the physical meaning of the concept, the mathemat
 https://youtu.be/papMcmgUnaM?si=HY366qA_F3KxTrtp
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+This topic explores nonlinear analog circuits that process signals by using exponential, logarithmic, switching, and storage behaviors. These circuits are used in instrumentation, waveform shaping, and analog computation.
+
+### Working principle
+- Study the nonlinear transfer characteristic used for logarithmic or signal-processing analog functions.
+- Identify the role of active devices and feedback in shaping the transfer curve.
+- Connect the circuit to measurement, modulation, and analog computation tasks.
+
+### Important points
+- Nonlinear transfer functions are useful for analog computation and measurement
+- Temperature compensation is important for log/antilog accuracy
+- Peak detectors and sample-hold circuits preserve signal amplitude or value.
+
+### Applications
+- Analog computation
+- Detection circuits
+- Data acquisition systems
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

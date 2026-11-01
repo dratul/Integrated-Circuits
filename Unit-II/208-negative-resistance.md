@@ -21,5 +21,26 @@ Key points to remember include the physical meaning of the concept, the mathemat
 https://youtu.be/LO-BRHI8RPs?si=7QDfRfj0n_lghpCc
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+This topic studies active impedance synthesis and reactive network behavior using op-amp-based circuits. Such circuits emulate inductive or frequency-dependent elements without discrete inductors.
+
+### Working principle
+- Replace a reactive element with an active equivalent using op-amp feedback and impedance synthesis.
+- Interpret the effect of active synthesis on frequency-dependent behavior.
+- Use the concept in filter and signal-processing applications.
+
+### Important points
+- Understand the physical behavior of the circuit or element.
+- Connect the concept to a real-world application.
+- Use the relevant equations for numerical problem solving.
+
+### Applications
+- Analog signal design
+- Circuit analysis
+- Practical electronics
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

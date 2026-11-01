@@ -21,5 +21,26 @@ Key points to remember include the physical meaning of the concept, the mathemat
 https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+This topic is a core building block in analog and digital IC design. It explains the underlying principle, circuit implementation, and practical relevance of the concept in modern electronics.
+
+### Working principle
+- Understand the core physical principle behind the topic.
+- Relate the circuit or concept to a practical signal-processing application.
+- Validate the concept using equations, waveforms, or expected operating conditions.
+
+### Important points
+- Understand the physical behavior of the circuit or element.
+- Connect the concept to a real-world application.
+- Use the relevant equations for numerical problem solving.
+
+### Applications
+- Analog signal design
+- Circuit analysis
+- Practical electronics
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

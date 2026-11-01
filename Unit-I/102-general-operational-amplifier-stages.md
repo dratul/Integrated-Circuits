@@ -21,5 +21,26 @@ Key points to remember include the physical meaning of the concept, the mathemat
 https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+An operational amplifier is a high-gain differential amplifier used to amplify small signals and perform analog signal processing. The topic explains the internal stages, operating conditions, and performance limitations that govern circuit behavior in practical IC designs.
+
+### Working principle
+- Identify the differential input, gain stage, and output stage of the amplifier.
+- Relate signal gain to input-output behavior and explain the effect of feedback.
+- Interpret key parameters such as gain, bandwidth, CMRR, slew rate, and offset.
+
+### Important points
+- Understand the physical behavior of the circuit or element.
+- Connect the concept to a real-world application.
+- Use the relevant equations for numerical problem solving.
+
+### Applications
+- Signal amplification
+- Instrumentation and sensing
+- Active filters and oscillators
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

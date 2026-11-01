@@ -18,5 +18,26 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+A phase-locked loop synchronizes the output signal with a reference signal by comparing phase and frequency. PLLs are essential in communication, signal recovery, frequency synthesis, and clock generation.
+
+### Working principle
+- Compare the reference and feedback phases using a phase detector.
+- Use the loop filter to stabilize the control signal.
+- Explain how PLLs lock frequency and phase in communication systems.
+
+### Important points
+- Phase detector output is proportional to phase error
+- Low-pass loop filter reduces noise and sets stability
+- VCO frequency locks to the reference signal when the loop is stable.
+
+### Applications
+- FM demodulation
+- Clock recovery
+- Frequency synthesis
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

@@ -18,5 +18,27 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+An operational amplifier is a high-gain differential amplifier used to amplify small signals and perform analog signal processing. The topic explains the internal stages, operating conditions, and performance limitations that govern circuit behavior in practical IC designs.
+
+### Working principle
+- Understand the core physical principle behind the topic.
+- Relate the circuit or concept to a practical signal-processing application.
+- Validate the concept using equations, waveforms, or expected operating conditions.
+
+### Important points
+- Voltage gain = Vout / Vin
+- CMRR = Ad / Acm
+- Slew rate = dVout/dt max
+- Input bias current and offset current affect accuracy in low-level signal applications.
+
+### Applications
+- Analog signal design
+- Circuit analysis
+- Practical electronics
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

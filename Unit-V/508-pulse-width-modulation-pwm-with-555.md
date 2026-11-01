@@ -18,5 +18,26 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+The 555 timer is a versatile integrated circuit used for timing, oscillation, pulse generation, and control. Its stability and threshold behavior make it useful for monostable, astable, and PWM applications.
+
+### Working principle
+- Study the internal comparators, SR latch, and discharge transistor in the 555 timer.
+- Determine the role of timing components in monostable and astable operation.
+- Apply the timer in pulse generation, delay circuits, and modulation systems.
+
+### Important points
+- The 555 timer uses comparators and a latch for switching control
+- Time constant τ = RC determines delay or oscillation period
+- Duty cycle can be adjusted by changing charge-discharge path and control voltage.
+
+### Applications
+- Delay generation
+- Oscillator design
+- PWM motor control
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

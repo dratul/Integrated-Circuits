@@ -21,5 +21,26 @@ Key points to remember include the physical meaning of the concept, the mathemat
 https://youtu.be/HXt5m6Q_nYg?t=1518
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+This topic covers frequency-selective networks that pass or reject signals based on frequency. Filters are fundamental in analog signal conditioning, noise reduction, and signal shaping in communication and instrumentation systems.
+
+### Working principle
+- Classify the filter as first-order, second-order, passive, or active.
+- Use frequency response to identify cutoff, passband, stopband, and Q-factor behavior.
+- Relate filter topology to the required application such as noise removal or signal conditioning.
+
+### Important points
+- Cutoff frequency = 1/(2πRC) for first-order RC filters
+- Filter order determines roll-off rate and selectivity
+- Active filters provide gain and better drive capability compared with passive filters.
+
+### Applications
+- Noise suppression
+- Audio processing
+- Signal conditioning for ADCs
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.

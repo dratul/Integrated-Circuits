@@ -18,5 +18,26 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
 ## Notes
-- Add short lecture notes or exam concepts for this topic here.
-- Summarize the key formulae, circuit behavior, and practical relevance.
+### Concept
+This topic deals with CMOS logic and memory elements used in digital IC design. The goal is to understand how logic functions are implemented physically and how timing, capacitance, and transistor operation affect digital performance.
+
+### Working principle
+- Understand the transistor-level implementation of logic pull-up and pull-down paths.
+- Analyze the truth table and logical behavior of the circuit.
+- Relate switching speed, power dissipation, and CMOS design style to practical performance.
+
+### Important points
+- CMOS uses complementary PMOS and NMOS transistors
+- Logic levels are determined by threshold switching of the pull-up and pull-down networks
+- Static power is low, but switching capacitance affects delay and power consumption.
+
+### Applications
+- Digital logic design
+- Registers and memory cells
+- Sequential circuit implementation
+
+### Exam focus
+- Explain the basic working principle using a circuit diagram or block diagram.
+- List the important parameters and their significance.
+- Solve numerical problems involving gain, frequency response, timing, or component values.
+- Connect the concept to an engineering application in analog or digital electronics.
