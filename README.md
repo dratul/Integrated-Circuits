@@ -19,58 +19,110 @@ At the end of this course students will demonstrate the ability to:
 
 ## Syllabus
 
-### Unit I: The 741 IC Op-Amp
-The 741 IC Op-Amp: Introduction to integrated circuits, types of integrated circuits, device parameters (properties of Opamp), slew rate, relationship between frequency and slew rate, gain, frequency response of 741, a simplified equivalent model of opamp, inverting amplifier, non-inverting amplifier, and basic applications of Op-Amp.
+### Unit-I: The 741 IC Op-Amp
+101 [The 741 IC Op-Amp: introduction, types of integrated circuits](https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS)  
+102 [General operational amplifier stages](https://youtu.be/_7Zcg41SqLo?si=YQCb0viWVLhfc6fd)  
+103 Bias circuit  
+104 Input stage and second stage  
+105 Output stage  
+106 Short-circuit protection circuitry  
+107 [DC analysis of input stage](https://youtu.be/qDoCvZoLmiE?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO)  
+108 DC analysis of input stage notes  
+109 Equivalent model of op-amp  
+110 [Op-amp device parameters](https://youtu.be/r6zfYXGk3PY?si=JYgyD3nHCOpKnkgI)  
+111 [Voltage gain, differential gain, common mode gain, CMRR](https://youtu.be/EMY-IriwEM0)  
+112 Input bias current, input offset current, power supply rejection ratio, frequency response of 741  
+113 Slew rate and relationship between input signal frequency and slew rate  
+114 Relationship between output capacitance and slew rate  
+115 Inverting amplifier  
+116 Non-inverting amplifier  
+117 Basic applications of Op-Amp  
 
-### Unit II: Linear Applications of IC Op-Amps and Active Analog Filters
-Linear applications of IC Op-Amps:
-- Op-Amp based V-I and I-V converters
-- Instrumentation amplifier
-- Generalized impedance converter
-- Simulation of inductors
+### Unit-II: Linear Applications of IC Op-Amps and Active Analog Filters
+201 [Op-Amp based V-I converters or transconductance amplifier or voltage dependent current source](https://www.youtube.com/live/CtBofs9Z5WM?si=3opBHx_PDd-Zr0XT)  
+202 [Numerical practice problem 1](https://www.youtube.com/live/5vIqPVD52qw?si=NhYbqeH6cT_AwtGK)  
+203 [Op-Amp based I-V converters](https://www.youtube.com/live/PVHRGN-kW9Q?si=dUXbbql4J5vX8LZ1)  
+204 Difference amplifier  
+205 [Instrumentation amplifier Part-01](https://youtu.be/lcykQsh8KCk?si=IV_kC5dFcHtiLwSS)  
+206 [Instrumentation amplifier Part-02](https://www.youtube.com/live/m43aEDeCoU0?si=0solVW4tUso9oC03)  
+207 [Instrumentation amplifier practice problem](https://www.youtube.com/live/gyGvx3tu0Hc?si=VeUJHiREJgP-0Efl)  
+208 [Negative resistance](https://youtu.be/LO-BRHI8RPs?si=7QDfRfj0n_lghpCc)  
+209 Ideal current and voltage sources using negative resistance  
+210 [Generalized impedance converter](https://www.youtube.com/live/OyGvj18pmAc?si=cOmcEb1LUp6vfqBO)  
+211 [Simulation of inductors](https://youtu.be/OyGvj18pmAc?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO&t=2877)  
+212 Passive first-order low pass filter  
+213 Passive first-order high pass filter  
+214 Band pass and band stop filters (passive)  
+215 All-pass filter (passive)  
+216 Higher-order passive filters  
+217 Active first-order low pass and high pass filters  
+218 Active band pass and band stop filters  
+219 All-pass active filter  
+220 [Practice problem 1 on active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/EZrLt6GFutpIqZh6FOC-zsEBJu-FEodXtamjTAEEh7HoNA?e=Eecrqn)  
+221 [Practice problem 2 on active filters](https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/Ee09T3VqtDFMvnQklE0aTHEBuDFtuQhIQ7d0bes43FN3xA?e=DQiYJE)  
+222 Second-order low pass filters  
+223 Second-order high pass filters  
+224 Second-order band pass filters  
+225 Second-order band stop filters  
+226 All-pass second-order active filters  
+227 [Biquad filters](https://youtu.be/HXt5m6Q_nYg?t=1518)  
+228 Sallen-Key second-order filter  
+229 [KHN filters Part-01](https://www.youtube.com/live/HXt5m6Q_nYg?si=ah0aM--zSNbR9L3d)  
+230 [KHN filters Part-02](https://www.youtube.com/live/ZoRuUx8ouAo?si=pfQ8V4ddrzBe1t-g)  
+231 Introduction to design of higher-order filters  
 
-Active analog filters:
-- First order active filters
-- Low pass and high pass filter design
-- Practical low pass filter design
-- Second order filters and implementation topologies
-- Designing of second order lowpass and high pass Butterworth filter
-- Introduction to band pass and band stop filters
-- All pass active filters
-- Sallen Key second order filter
-- KHN filters
-- Introduction to higher order filter design
+### Unit-III: Frequency Compensation & Non-Linear Applications of IC Op-Amps
+301 Frequency compensation  
+302 Compensation of two-stage op-amps  
+303 Slewing in two-stage op-amp  
+304 Nonlinearity of differential circuits  
+305 Effect of negative feedback on nonlinearity  
+306 Basic log-anti log amplifiers using diode and BJT  
+307 Temperature-compensated log-anti log amplifiers using diode  
+308 Analog multiplier circuit design using log amplifier  
+309 Analog divider circuit design using log amplifier  
+310 Peak detectors  
+311 Sample and hold circuits  
+312 Op-amp as a comparator and zero crossing detector  
+313 [Schmitt trigger](https://youtube.com/live/F_qzAaZkRIg)  
+314 [Astable multivibrator](https://www.youtube.com/live/bVItmFjMpxw?si=3AH-mo6Nmh2-Xj2d)  
+315 [Monostable multivibrator](https://www.youtube.com/live/RBR8xrr-cPU?si=iGvbSzeqgY3wc7-i)  
+316 Generation of square waveforms  
+317 Generation of triangular waveforms  
+318 Frequency of generated triangular waveform  
+319 [Analog multipliers and their applications](https://youtu.be/papMcmgUnaM?si=HY366qA_F3KxTrtp)  
 
-### Unit III: Non-Linear Applications of IC Op-Amps
-Non-linear applications of IC Op-Amps:
-- Basic Log-Anti Log amplifiers using diode and BJT
-- Temperature compensated Log-Anti Log amplifiers using diode
-- Analog multiplier circuit design using log amplifier
-- Analog divider circuit design using log amplifier
-- Peak detectors
-- Sample and hold circuits
-- Op-amp as a comparator and zero crossing detector
-- Schmitt triggers and hysteresis voltage/current
-- Astable and monostable multivibrator
-- Generation of square and triangular waveforms
-- Frequency of generated triangular waveform
+### Unit-IV: Digital Integrated Circuit Design
+401 Overview of digital integrated circuits  
+402 Basic logic generation in ICs  
+403 CMOS logic gate circuit basic structure  
+404 CMOS realization of inverters  
+405 CMOS realization of AND gates  
+406 CMOS realization of OR gates  
+407 CMOS realization of NAND gates  
+408 CMOS realization of NOR gates  
+409 Latches and flip-flops  
+410 The latch  
+411 CMOS implementation of SR flip-flops  
+412 Simpler CMOS implementation of the clocked SR flip-flop  
+413 CMOS implementation of J-K flip-flops  
+414 D flip-flop circuits  
+415 Pass transistor logic  
 
-### Unit IV: Digital Integrated Circuit Design
-Digital Integrated Circuit Design: an overview of digital integrated circuits, basic logic generation in ICs, CMOS logic gate circuit’s basic structure, CMOS realization of inverters, AND, OR, NAND and NOR gates.
-
-Latches and Flip flops:
-- The latch
-- CMOS implementation of SR flip-flops
-- Simpler CMOS implementation of the clocked SR flip-flop
-- CMOS implementation of J-K flip-flops
-- D flip-flop circuits
-
-### Unit V: Integrated Circuit Timer and Applications
-Integrated Circuit Timer: Introduction to 555 Timer IC, timer IC 555 pin and functional block diagram, internal architecture, operating modes of 555 Timer, monostable and astable multivibrator using the 555 IC, bistable multivibrator using IC 555.
-
-Applications:
-- Pulse Width Modulation (PWM) with 555
-- Ramp/triangle wave generator
+### Unit-V: Integrated Circuit Timer and Applications
+501 Introduction to 555 timer IC  
+502 Timer IC 555 pin and functional block diagram  
+503 Internal architecture of 555 timer  
+504 Operating modes of 555 timer  
+505 Monostable multivibrator using 555 IC  
+506 Astable multivibrator using 555 IC  
+507 Bistable multivibrator using 555 IC  
+508 Pulse width modulation (PWM) with 555  
+509 Ramp/triangle wave generator  
+510 Phase locked loop (PLL): basic principle  
+511 Block diagram and working of PLL  
+512 Ex-OR gates and multipliers as phase detectors  
+513 Applications of PLL  
 
 ## Text Books
 1. Microelectronic Circuits, Sedra and Smith, 7th Edition, Oxford, 2017.
