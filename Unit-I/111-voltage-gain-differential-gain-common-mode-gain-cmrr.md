@@ -40,6 +40,19 @@ An operational amplifier is a high-gain differential amplifier used to amplify s
 - Circuit analysis
 - Practical electronics
 
+### Related circuits
+- Basic amplifier stage
+- RC network
+- Feedback network
+- Analog signal conditioning circuit
+
+### Key equations
+- Voltage gain: Av = Vout / Vin
+- Inverting gain: Av = -Rf / Rin
+- Non-inverting gain: Av = 1 + Rf / Rin
+- Slew rate: SR = dVout / dt |max
+- CMRR = Ad / Acm
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

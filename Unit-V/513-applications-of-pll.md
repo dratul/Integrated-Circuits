@@ -36,6 +36,19 @@ A phase-locked loop synchronizes the output signal with a reference signal by co
 - Clock recovery
 - Frequency synthesis
 
+### Related circuits
+- Phase detector
+- Low-pass loop filter
+- VCO
+- Frequency synthesizer
+- Clock recovery circuit
+
+### Key equations
+- Phase error: φe = φref - φout
+- Loop equation: Vcont ∝ phase error
+- VCO frequency: fVCO = f0 + Kv * Vcontrol
+- Lock condition: reference and feedback phases become equal
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

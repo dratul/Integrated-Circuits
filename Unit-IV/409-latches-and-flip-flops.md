@@ -36,6 +36,20 @@ This topic deals with CMOS logic and memory elements used in digital IC design. 
 - Registers and memory cells
 - Sequential circuit implementation
 
+### Related circuits
+- CMOS inverter
+- NAND gate
+- NOR gate
+- SR latch
+- JK flip-flop
+- D flip-flop
+
+### Key equations
+- CMOS power consumption: P ≈ CV2f
+- Propagation delay depends on rise/fall time and transistor sizing
+- Truth table based logic analysis
+- Noise margin is the allowed voltage tolerance between logic levels
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

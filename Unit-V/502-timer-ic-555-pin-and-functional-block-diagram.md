@@ -36,6 +36,19 @@ The 555 timer is a versatile integrated circuit used for timing, oscillation, pu
 - Oscillator design
 - PWM motor control
 
+### Related circuits
+- Monostable 555 timer
+- Astable 555 timer
+- PWM control circuit
+- Delay timer
+- Trigger pulse conditioning
+
+### Key equations
+- Time delay: t = 1.1 RC
+- Oscillation frequency: f = 1.44 / ((RA + 2RB)C)
+- Duty cycle: D = (RA + RB) / (RA + 2RB)
+- Threshold / trigger comparison with VCC/3 and 2VCC/3
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

@@ -39,6 +39,19 @@ This topic deals with switching and waveform-generation circuits used to convert
 - Wave shaping
 - Triggering and timing
 
+### Related circuits
+- Bistable latch
+- Comparator with hysteresis
+- RC charging circuit
+- Astable multivibrator
+- Triangle-wave generator
+
+### Key equations
+- Time constant: τ = RC
+- Frequency of astable oscillator: f ≈ 1 / (0.693 RC)
+- Threshold hysteresis: VTH+ - VTH- = hysteresis width
+- Period: T = 2.2 RC for one-shot application
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

@@ -39,6 +39,18 @@ This topic studies active impedance synthesis and reactive network behavior usin
 - Circuit analysis
 - Practical electronics
 
+### Related circuits
+- GIC circuit
+- Active inductor simulator
+- Negative resistance topology
+- Reactive network emulation
+
+### Key equations
+- Z = V / I
+- For an inductor emulator, reactance is frequency dependent
+- Negative resistance condition: R < 0 for active network
+- Q and resonance frequency define reactive behavior
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

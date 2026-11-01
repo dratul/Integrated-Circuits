@@ -36,6 +36,18 @@ This topic is a core building block in analog and digital IC design. It explains
 - Circuit analysis
 - Practical electronics
 
+### Related circuits
+- Basic amplifier stage
+- RC network
+- Feedback network
+- Analog signal conditioning circuit
+
+### Key equations
+- Time constant: τ = RC
+- Frequency of astable oscillator: f ≈ 1 / (0.693 RC)
+- Threshold hysteresis: VTH+ - VTH- = hysteresis width
+- Period: T = 2.2 RC for one-shot application
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.

@@ -37,6 +37,17 @@ An operational amplifier is a high-gain differential amplifier used to amplify s
 - Circuit analysis
 - Practical electronics
 
+### Related circuits
+- Basic amplifier stage
+- RC network
+- Feedback network
+- Analog signal conditioning circuit
+
+### Key equations
+- Use the proper device model and transfer equation for the circuit.
+- Apply KCL/KVL to analyze the circuit quantitatively.
+- Relate the equation to practical waveform or output behavior.
+
 ### Exam focus
 - Explain the basic working principle using a circuit diagram or block diagram.
 - List the important parameters and their significance.
