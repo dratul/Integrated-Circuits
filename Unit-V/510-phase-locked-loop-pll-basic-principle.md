@@ -1,9 +1,8 @@
 # 510 - Phase locked loop (PLL): basic principle
 
-## Navigation
 - Previous: [509 - Ramp/triangle wave generator](./509-ramp-triangle-wave-generator.md)
-- Next: [511 - Block diagram and working of PLL](./511-block-diagram-and-working-of-pll.md)
-- Related topics: [509 - Ramp/triangle wave generator](509-ramp-triangle-wave-generator.md), [511 - Block diagram and working of PLL](511-block-diagram-and-working-of-pll.md), [501 - Introduction to 555 timer IC](501-introduction-to-555-timer-ic.md), [512 - Ex-OR gates and multipliers as phase detectors](512-ex-or-gates-and-multipliers-as-phase-detectors.md)
+
+
 
 ## Unit
 Unit-V
@@ -60,3 +59,7 @@ A phase-locked loop synchronizes the output signal with a reference signal by co
 - List the important parameters and their significance.
 - Solve numerical problems involving gain, frequency response, timing, or component values.
 - Connect the concept to an engineering application in analog or digital electronics.
+
+  - Next: [511 - Block diagram and working of PLL](./511-block-diagram-and-working-of-pll.md)
+ 
+  - - Related topics: [509 - Ramp/triangle wave generator](509-ramp-triangle-wave-generator.md), [511 - Block diagram and working of PLL](511-block-diagram-and-working-of-pll.md), [501 - Introduction to 555 timer IC](501-introduction-to-555-timer-ic.md), [512 - Ex-OR gates and multipliers as phase detectors](512-ex-or-gates-and-multipliers-as-phase-detectors.md)
