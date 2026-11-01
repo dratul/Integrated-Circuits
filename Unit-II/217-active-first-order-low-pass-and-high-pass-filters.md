@@ -36,13 +36,6 @@ This topic covers frequency-selective networks that pass or reject signals based
 - Audio processing
 - Signal conditioning for ADCs
 
-### Related circuits
-- First-order RC low-pass filter
-- First-order RC high-pass filter
-- Second-order active low-pass filter
-- Sallen-Key filter
-- Multiple feedback filter
-
 ### Key equations
 - First-order cutoff: fc = 1 / (2πRC)
 - Second-order Q factor: Q = 1 / (3 - K) or as defined by topology

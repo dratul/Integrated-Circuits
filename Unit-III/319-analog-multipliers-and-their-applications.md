@@ -42,13 +42,6 @@ This topic explores nonlinear analog circuits that process signals by using expo
 - Detection circuits
 - Data acquisition systems
 
-### Related circuits
-- Log amplifier using BJT
-- Log amplifier using diode
-- Peak detector
-- Sample-and-hold circuit
-- Analog multiplier core
-
 ### Key equations
 - Log relation: Vout = -nVT ln(Vin / I0R)
 - Peak detector output tracks maximum input value over time

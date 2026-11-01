@@ -36,12 +36,6 @@ This topic is a core building block in analog and digital IC design. It explains
 - Circuit analysis
 - Practical electronics
 
-### Related circuits
-- Basic amplifier stage
-- RC network
-- Feedback network
-- Analog signal conditioning circuit
-
 ### Key equations
 - Time constant: τ = RC
 - Frequency of astable oscillator: f ≈ 1 / (0.693 RC)

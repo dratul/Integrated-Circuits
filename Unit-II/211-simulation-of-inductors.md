@@ -42,12 +42,6 @@ This topic studies active impedance synthesis and reactive network behavior usin
 - Reactive element emulation
 - RF and signal processing
 
-### Related circuits
-- GIC circuit
-- Active inductor simulator
-- Negative resistance topology
-- Reactive network emulation
-
 ### Key equations
 - Z = V / I
 - For an inductor emulator, reactance is frequency dependent
