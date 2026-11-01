@@ -47,3 +47,9 @@ A phase-locked loop synchronizes the output signal with a reference signal by co
 - List the important parameters and their significance.
 - Solve numerical problems involving gain, frequency response, timing, or component values.
 - Connect the concept to an engineering application in analog or digital electronics.
+
+### References 
+[1] G. Kolumb´an, “Phase-Locked Loops” Article in The Encyclopedia of RF and Microwave Engineering,
+K. Chang, (Ed.), vol. 4, pp. 3735–3767, Wiley, New York, 2005.
+[2] G. Kolumb´an, “Phase-Locked Loops” Article in The Encyclopedia of Electrical and Electronics Engineering,
+J. G. Webster, Ed., vol. 16, pp. 158–188, Wiley, New York, 1999.
