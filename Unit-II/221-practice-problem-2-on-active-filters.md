@@ -17,6 +17,9 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
+## Circuit Diagram
+![Circuit diagram](../Circuit-Diagrams/filter.svg)
+
 ## Link
 https://bietjhsacin-my.sharepoint.com/:b:/g/personal/akd_bietjhs_ac_in/Ee09T3VqtDFMvnQklE0aTHEBuDFtuQhIQ7d0bes43FN3xA?e=DQiYJE
 

@@ -17,6 +17,9 @@ In practical engineering work, this topic helps explain how circuit blocks are d
 
 Key points to remember include the physical meaning of the concept, the mathematical relationships involved, and the relationship between theory and circuit behavior in real ICs.
 
+## Circuit Diagram
+![Circuit diagram](../Circuit-Diagrams/impedance.svg)
+
 ## Link
 https://youtu.be/OyGvj18pmAc?list=PLKy7tXMLcgM3aUpBq_02YGHKkookFxZNO&t=2877
 

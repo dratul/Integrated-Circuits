@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 600 17px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 500 15px Arial, sans-serif; fill: #0f172a; }
+      .wire { stroke: #0f172a; stroke-width: 3; fill: none; }
+      .block { stroke: #0f172a; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect width="900" height="320" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" class="title">PLL Block Diagram</text>
+
+  <rect x="55" y="110" width="120" height="85" class="block"/>
+  <rect x="220" y="110" width="170" height="85" class="block"/>
+  <rect x="450" y="110" width="120" height="85" class="block"/>
+  <rect x="645" y="110" width="120" height="85" class="block"/>
+
+  <line x1="175" y1="152" x2="220" y2="152" class="wire"/>
+  <line x1="390" y1="152" x2="450" y2="152" class="wire"/>
+  <line x1="570" y1="152" x2="645" y2="152" class="wire"/>
+
+  <line x1="705" y1="195" x2="705" y2="238" class="wire"/>
+  <line x1="705" y1="238" x2="285" y2="238" class="wire"/>
+  <line x1="285" y1="238" x2="285" y2="195" class="wire"/>
+
+  <text x="93" y="160" class="label">Ref</text>
+  <text x="240" y="148" class="small">Phase detector</text>
+  <text x="480" y="160" class="label">Filter</text>
+  <text x="680" y="160" class="label">VCO</text>
+  <text x="310" y="260" class="small">Feedback</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 600 17px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 500 15px Arial, sans-serif; fill: #0f172a; }
+      .wire { stroke: #0f172a; stroke-width: 3; fill: none; }
+      .component { stroke: #0f172a; stroke-width: 2.6; fill: none; }
+    </style>
+  </defs>
+  <rect width="900" height="320" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" class="title">Active Filter / RC Network</text>
+
+  <line x1="60" y1="170" x2="155" y2="170" class="wire"/>
+  <line x1="155" y1="170" x2="155" y2="110" class="wire"/>
+  <line x1="155" y1="110" x2="255" y2="110" class="wire"/>
+  <line x1="255" y1="110" x2="255" y2="170" class="wire"/>
+  <line x1="255" y1="170" x2="350" y2="170" class="wire"/>
+  <line x1="350" y1="170" x2="350" y2="90" class="wire"/>
+  <line x1="350" y1="90" x2="440" y2="90" class="wire"/>
+  <line x1="440" y1="90" x2="440" y2="170" class="wire"/>
+  <line x1="440" y1="170" x2="535" y2="170" class="wire"/>
+  <line x1="535" y1="170" x2="535" y2="110" class="wire"/>
+  <line x1="535" y1="110" x2="610" y2="110" class="wire"/>
+  <line x1="610" y1="110" x2="610" y2="200" class="wire"/>
+  <line x1="610" y1="200" x2="535" y2="200" class="wire"/>
+  <line x1="535" y1="200" x2="535" y2="170" class="wire"/>
+
+  <path d="M 155 170 L 155 230 L 255 230 L 255 170" class="component"/>
+  <path d="M 350 170 L 350 230 L 440 230 L 440 170" class="component"/>
+  <path d="M 535 170 L 535 230 L 610 230 L 610 170" class="component"/>
+
+  <text x="40" y="150" class="label">Vin</text>
+  <text x="725" y="156" class="label">Vout</text>
+  <text x="198" y="252" class="small">R</text>
+  <text x="385" y="252" class="small">C</text>
+  <text x="570" y="252" class="small">R</text>
+</svg>

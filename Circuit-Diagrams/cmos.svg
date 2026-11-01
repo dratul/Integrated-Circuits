@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 600 17px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 500 15px Arial, sans-serif; fill: #0f172a; }
+      .wire { stroke: #0f172a; stroke-width: 3; fill: none; }
+      .device { stroke: #0f172a; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect width="900" height="320" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" class="title">CMOS Logic Gate</text>
+
+  <line x1="60" y1="160" x2="175" y2="160" class="wire"/>
+  <line x1="175" y1="160" x2="175" y2="80" class="wire"/>
+  <line x1="175" y1="80" x2="260" y2="80" class="wire"/>
+  <line x1="175" y1="160" x2="175" y2="240" class="wire"/>
+  <line x1="175" y1="240" x2="260" y2="240" class="wire"/>
+  <line x1="260" y1="80" x2="260" y2="240" class="wire"/>
+  <line x1="260" y1="160" x2="430" y2="160" class="wire"/>
+
+  <circle cx="510" cy="160" r="40" class="device"/>
+  <line x1="430" y1="160" x2="470" y2="160" class="wire"/>
+  <line x1="550" y1="160" x2="720" y2="160" class="wire"/>
+
+  <text x="180" y="62" class="small">PMOS</text>
+  <text x="180" y="257" class="small">NMOS</text>
+  <text x="742" y="168" class="label">Output</text>
+  <text x="35" y="150" class="label">Input</text>
+</svg>

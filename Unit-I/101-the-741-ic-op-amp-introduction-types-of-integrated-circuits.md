@@ -18,6 +18,9 @@ Key ideas to remember:
 - Its performance depends on gain, bandwidth, input impedance, output drive, and slew rate.
 - The 741 forms the foundation for many linear circuits and applications.
 
+## Circuit Diagram
+![Circuit diagram](../Circuit-Diagrams/opamp.svg)
+
 ## Link
 https://youtu.be/ov1TF34Wnpw?si=jFG_f3cXeFSfkkDS
 

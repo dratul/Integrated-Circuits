@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 600 17px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 500 15px Arial, sans-serif; fill: #0f172a; }
+      .wire { stroke: #0f172a; stroke-width: 3; fill: none; }
+      .thin { stroke: #0f172a; stroke-width: 2.2; fill: none; }
+      .device { stroke: #0f172a; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect width="900" height="320" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" class="title">Operational Amplifier (741) Stage</text>
+
+  <line x1="80" y1="110" x2="220" y2="110" class="wire"/>
+  <line x1="80" y1="200" x2="220" y2="200" class="wire"/>
+  <polygon points="220,60 220,250 440,155" class="device"/>
+  <line x1="440" y1="155" x2="700" y2="155" class="wire"/>
+  <line x1="260" y1="110" x2="260" y2="40" class="wire"/>
+  <line x1="260" y1="40" x2="330" y2="40" class="wire"/>
+  <line x1="330" y1="40" x2="330" y2="270" class="wire"/>
+  <line x1="330" y1="270" x2="260" y2="270" class="wire"/>
+  <line x1="260" y1="270" x2="260" y2="200" class="wire"/>
+
+  <circle cx="170" cy="110" r="11" class="device"/>
+  <circle cx="170" cy="200" r="11" class="device"/>
+  <text x="162" y="82" class="small">-</text>
+  <text x="162" y="229" class="small">+</text>
+
+  <text x="520" y="143" class="label">Vout</text>
+  <text x="60" y="96" class="label">Vin-</text>
+  <text x="60" y="214" class="label">Vin+</text>
+  <text x="285" y="114" class="small">Gain stage</text>
+  <text x="295" y="200" class="small">Output stage</text>
+</svg>

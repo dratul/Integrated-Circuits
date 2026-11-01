@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 600 17px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 500 15px Arial, sans-serif; fill: #0f172a; }
+      .wire { stroke: #0f172a; stroke-width: 3; fill: none; }
+      .device { stroke: #0f172a; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect width="900" height="320" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" class="title">Active Impedance / Instrumentation Circuit</text>
+
+  <polygon points="170,80 170,220 400,160" class="device"/>
+  <line x1="55" y1="160" x2="170" y2="160" class="wire"/>
+  <line x1="400" y1="160" x2="700" y2="160" class="wire"/>
+
+  <line x1="285" y1="75" x2="285" y2="245" class="wire"/>
+  <line x1="285" y1="75" x2="520" y2="75" class="wire"/>
+  <line x1="520" y1="75" x2="520" y2="245" class="wire"/>
+  <line x1="520" y1="245" x2="285" y2="245" class="wire"/>
+
+  <text x="55" y="145" class="label">Input</text>
+  <text x="730" y="145" class="label">Output</text>
+  <text x="350" y="110" class="small">Feedback / gain network</text>
+</svg>

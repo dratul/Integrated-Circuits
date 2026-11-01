@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .label { font: 600 17px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 500 15px Arial, sans-serif; fill: #0f172a; }
+      .wire { stroke: #0f172a; stroke-width: 3; fill: none; }
+      .device { stroke: #0f172a; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect width="900" height="320" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" class="title">555 Timer IC</text>
+
+  <rect x="220" y="80" width="430" height="170" rx="18" class="device"/>
+  <line x1="120" y1="110" x2="220" y2="110" class="wire"/>
+  <line x1="120" y1="195" x2="220" y2="195" class="wire"/>
+  <line x1="650" y1="110" x2="780" y2="110" class="wire"/>
+  <line x1="650" y1="195" x2="780" y2="195" class="wire"/>
+
+  <circle cx="315" cy="160" r="26" class="device"/>
+  <circle cx="545" cy="160" r="26" class="device"/>
+  <text x="297" y="167" class="small">C</text>
+  <text x="527" y="167" class="small">L</text>
+
+  <text x="58" y="116" class="label">Trigger</text>
+  <text x="58" y="201" class="label">Threshold</text>
+  <text x="760" y="116" class="label">Output</text>
+  <text x="760" y="201" class="label">Reset</text>
+</svg>
